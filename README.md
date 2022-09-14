@@ -2,7 +2,7 @@
 <!---- 👀 I’m interested in ...--->
 - 🌱 I’m currently learning Python and more or less the basics of the coding world
 <!----- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me shadmansamihn456@gmail.com or https://linktr.ee/Sadmansam456
+- 📫 How to reach me shadmansamin456@gmail.com or https://linktr.ee/Sadmansam456
 
 <!---
 Sadmansam456-sudo/Sadmansam456-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
